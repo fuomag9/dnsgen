@@ -92,3 +92,4 @@ ENV/
 *.npy
 *.pkl
 
+/.idea
