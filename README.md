@@ -8,12 +8,12 @@ This tool generates a combination of domain names from the provided input. Combi
 
 ## Installation
 
-```python -m pip install dnsgen```
+```pip install dnsgen```
 
 ..or from GitHub directly:
 
 ```
-git clone https://github.com/AlephNullSK/dnsgen
+git clone https://github.com/fuomag9/dnsgen
 cd dnsgen/
 python -m poetry install
 ```
